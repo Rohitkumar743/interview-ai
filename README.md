@@ -1,4 +1,4 @@
-# InterviewAI - AI Powered Mock Interview Platform 🚀
+# InterviewAI - AI Powered Mock Interview Platform 
 
 InterviewAI is a full-stack AI-based mock interview platform designed to help users prepare for technical and behavioral interviews. 
 It provides an interactive interview experience, generates AI-based questions, evaluates responses, and provides feedback to improve interview performance.
